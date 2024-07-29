@@ -1,0 +1,119 @@
+Tag,Full Name,Category
+BMA,Bayesian Moving Average,BAY
+BN,Bayesian Network,BAY
+BR,Bayesian Regression,BAY
+GPR,Gaussian Process Regression,BAY
+NB,Naive Bayes,BAY
+MIDA,Mixture Discriminant Analysis,DR
+PLSR,Partial Least Square Regression,DR
+PCR,Principal Component Regression,DR
+DT,Decision Trees,DT
+M5P,M5 model trees,DT
+REPT,Reduced Error Pruning Tree,DT
+STDT,SpatioTemporal Decision Trees,DT
+AB,AdaBoost,ENS
+ABBPNN,AdaBoost BackPropagation Neural Network,ENS
+ABELM,AdaBoost Extreme Learning Machine,ENS
+ARC,Adaptively Resample and Combine,ENS
+BDT,Bagging Decision Trees,ENS
+BDNN,Bagging Deep Neural Network,ENS
+BADT,Bayesian Additive Decision Trees,ENS
+BODT,Boosted Decision Trees,ENS
+BRT,Boosted Regression Trees,ENS
+CB,CatBoost,ENS
+DF,Deep Forest,ENS
+XGB,Extreme Gradient Boost,ENS
+XGBLR,Extreme Gradient Boost Linear Regression,ENS
+ERT,Extremely Randomized Trees,ENS
+GBDT,Gradient Boosting Decision Trees,ENS
+GBELM,Gradient Boosting Extreme Learning Machine,ENS
+GBM,Gradient Boosting Machine,ENS
+HGB,Histogram based Gradient Boost,ENS
+LGBM,Light Gradient Boosting Machine,ENS
+RF,Random Forest,ENS
+RFR,Random Forest Regression,ENS
+STXGB,SpatioTemporal Extreme Gradient Boost,ENS
+STERT,SpatioTemporal Extremely Randomized Trees,ENS
+STGBDT,SpatioTemporal Gradient Boosted Decision Tree,ENS
+STLGBM,SpatioTemporal Light Gradient Boosting Machine,ENS
+STRF,SpatioTemporal Random Forest,ENS
+STACK,Stacking of heterogeneous models,ENS
+SSD,SubSpace Discriminant,ENS
+SSKNN,SubSpace K Nearest Neighbor,IB
+KNN,K-Nearest Neighbor,IB
+ADR,Additive Regression,LR
+CRS,Complete Subset Regression,LR
+ER,Elastic Regression,LR
+GAM,Generalized Additive Model,LR
+KRLS,Kernel-based Regularized Least Squares,LR
+LUR,Land Use Regression,LR
+LASSO,LASSO Regression,LR
+LR,Linear Regression,LR
+LOGR,Logistic Regression,LR
+MARS,Multivariate adaptive regression spline,LR
+RSS,Random Subspace,LR
+RR,Ridge Regression,LR
+VOL,Volterra,LR
+ANFIS,Adaptive Neuro-Fuzzy Inference System,NN
+ANN,Artificial Neural Network,NN
+AEI,Autocorrelation Error Informer,NN
+AE,AutoEncoders,NN
+BPNN,Back Propagration Neural Network,NN
+BNN,Bayesian Neural Network,NN
+CNN,Convolutional Neural Networks,NN
+DAE,Deep AutoEncoder,NN
+DBN,Deep Belief Network,NN
+DCNN,Deep Convolutional Neural Network,NN
+DNN,Deep Neural Network,NN
+ESNN,Echo State Neural Network,NN
+EN,Elman Network,NN
+ELM,Extreme Learning Machine,NN
+FCL,Full Connection Layers,NN
+FNN,Fuzzy Neural Network,NN
+GRU,Gated Recurrent Unit,NN
+GRNN,General Regression Neural Network,NN
+GAN,Generative Adversarial Network,NN
+GCN,Graph Convolutional Network,NN
+GLSTM,Graph Long Short Term Memory,NN
+GNN,Graph Neural Networks,NN
+LSTM,Long Short Term Memory,NN
+MGC,Multi-Grapch Convolution,NN
+MLP,MultiLayer Perceptron,NN
+MSANN,MultiStep Ahead Neural Network,NN
+QRNN,Quasi-Recurrent Neural Networks,NN
+RBFNN,Radial Basis Function Neural Network,NN
+RNN,Recurrent Neural Network,NN
+RESNN,Residual Neural Network,NN
+SADNN,Self Adaptive Deep Neural Network,NN
+SOM,Self Organizing Map,NN
+SEQ2SEQ,Sequence2Sequence RNN,NN
+STBPNN,SpatioTemporal BackPropagation Neural Network,NN
+STDA,SpatioTemporal Dynamic Advection,NN
+STELM,SpatioTemporal Extreme Learning Machine,NN
+STGRU,SpatioTemporal Gated Recurrent Unit,NN
+STI,SpatioTemporal Informer,NN
+STLSTM,SpatioTemporal Long Short Term Memory,NN
+STMLP,SpatioTemporal MultiLayer Perceptron,NN
+STNN,SpatioTemporal Neural Networks,NN
+STOC,SpatioTemporal Orthogonal Cube,NN
+STSVM,SpatioTemporal Support Vector Machine,NN
+STT,SpatioTemporal Transformer,NN
+TCNN,Temporal Convolutional Neural Network,NN
+TDGTN,Temporal Difference-based Graph Transformer Networks,NN
+TNN,Transformer Neural Network,NN
+VAE,Variational AutoEncoder,NN
+WNN,Wavelet Neural Network,NN
+CUB,Cubist,RS
+DCP,Dynamic Conditional Pareto,STAT
+RSM,Response Surface Model,STAT
+SVR,Support Vector Regression,SVM
+LSSVM,Least Square Support Vector Machine,SVM
+SVM,Support Vector Machine,SVM
+ARIMA,Autoregressive Integrated Moving Average,TS
+AR,AutoRegressive model,TS
+ARMA,Autoregressive Moving Average,TS
+GARCH,Generalized Autoregressive Conditional Heteroskedasticity,TS
+MA,Moving Average,TS
+PFM,Prophet Forecasting Model,TS
+VAR,Vector AutoRegression,TS
+SHAP,SHapley Additive exPlanations,XAI

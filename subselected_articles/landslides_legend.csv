@@ -1,0 +1,151 @@
+Tag,Full Name,Category
+BLOGR,Bayesian Logistic Regression,BAY
+BN,Bayesian Network,BAY
+ILBN,Incremental Learning Bayesian Network,BAY
+NB,Naive Bayes,BAY
+DBS,DBScan,CLUST
+HC,Hierarchical Clustering,CLUST
+KM,KMeans,CLUST
+PUB,Positive Unlabeled Bagging,CLUST
+FLDA,Flexible Discriminant Analysis,DR
+FUDA,Functional Discriminant Analysis,DR
+MIDA,MIxture Discriminant Analysis,DR
+MDA,Multivariate Discriminant Analysis,DR
+QDA,Quadratic Discriminant Analysis,DR
+ADT,Alternating Decision Trees,DT
+BFDT,Best First Decision Trees,DT
+C45DT,C4.5 Decision Tree,DT
+C50DT,C5.0 Decision Trees,DT
+CHAID,CHi-squared Automatic Interaction Detection,DT
+DTC,Decision Table Classifier,DT
+DT,Decision Trees,DT
+FT,Functional Trees,DT
+HT,Hoeffding Trees,DT
+JDT,J48 Decision Tree,DT
+LMT,Logistic Model Tree,DT
+M5P,M5 model trees,DT
+NBT,Naive Bayes Trees,DT
+REPDT,Reduced Error Pruning Decision Tree,DT
+AB,AdaBoost,ENS
+ABADT,AdaBoost Alternating Decision Trees,ENS
+ABDT,AdaBoost Decision Trees,ENS
+ABC,AdaBoost Classifier,ENS
+ABHP,AdaBoost HyperPipes,ENS
+ABREPDT,AdaBoost Reduced Error Pruning Decision Tree,ENS
+ABRS,AdaBoost Rough Set,ENS
+ABVFI,AdaBoost Voting Feature Intervals,ENS
+ABCDT,Adaptative Boosting Credal Decision Tree,ENS
+ASCANN,Attribute Selected Classifier Artificial Neural Network,ENS
+BCDT,Baggin Credal Decision Tree,ENS
+BFT,Baggin Functional Trees,ENS
+BANN,Bagging Artificial Neural Network,ENS
+BC45DT,Bagging C4.5 Decision Tree,ENS
+BDT,Bagging Decision Trees,ENS
+BHP,Bagging HyperPipes,ENS
+BLMT,Bagging Logistic Model Tree,ENS
+BRF,Bagging Random Forest,ENS
+BRSSNBT,Bagging Random SubSpace Naive Bayes Trees,ENS
+BREPDT,Bagging Reduced Error Pruning Decision Tree,ENS
+BRS,Bagging Rough Set,ENS
+BSVM,Bagging Support Vector Machine,ENS
+BRT,Boosted Regression Tree,ENS
+BOANN,Boosting Artificial Neural Network,ENS
+BOC45DT,Boosting C4.5 Decision Tree,ENS
+BODT,Boosting Decision Trees,ENS
+BOLMT,Boosting Logistic Model Tree,ENS
+BOSVM,Boosting Support Vector Machine,ENS
+CGANN,Cascade Generalization Artificial Neural Network,ENS
+CB,CatBoost,ENS
+CHAID,CHi-squared automatic interaction detection,ENS
+CDT,Credal Decision Trees,ENS
+DADT,Dagging Alternating Decision Trees,ENS
+DANN,Dagging Artificial Neural Network,ENS
+DCDT,Dagging Credal Decision Tree,ENS
+DDT,Dagging Decision Trees,ENS
+DHP,Dagging HyperPipes,ENS
+DAREPDT,Dagging Reduced Error Pruning Decision Tree,ENS
+DECDT,Decorate Credal Decision Tree,ENS
+DDT,Decorate Decision Trees,ENS
+DEHP,Decorate HyperPipes,ENS
+DB,DeepBoost,ENS
+EBM,Explainable Boosting Machine,ENS
+XGB,Extreme Gradient Boosting,ENS
+ERT,Extremely Randomized Trees,ENS
+FPA,Forest Penalizing Attribute,ENS
+GBM,Generalized Boosting Model,ENS
+GRF,Geographical Random Forest,ENS
+GBDT,Gradient Boosted Decision Trees,ENS
+GBC,Gradient Boosting Classifier,ENS
+IF,Isolated Forest,ENS
+LGBM,Light Gradient Boosting Machine,ENS
+LDA,Linear Discriminant Analysis,ENS
+LOGB,Logit Boosting,ENS
+MBADT,MultiBoost Alternating Decision Trees,ENS
+MBDT,MultiBoost Decision Trees,ENS
+MBVFI,MultiBoost Voting Feature Intervals,ENS
+MBREPDT,MultiBoostAB Reduced Error Pruning Decision Tree,ENS
+NGB,Natural Gradient Boosting,ENS
+RF,Random Forest,ENS
+RFANN,Random Forest Artificial Neural Network,ENS
+RFLMT,Random Forest Logistic Model Tree,ENS
+RFM,Random Forest Machine,ENS
+RSSADT,Random SubSpace Alternating Decision Trees,ENS
+RSSANN,Random SubSpace Artificial Neural Network,ENS
+RSSC45DT,Random SubSpace C4.5 Decision Tree,ENS
+RSSCDT,Random SubSpace Credal Decision Tree,ENS
+RSSDT,Random SubSpace Decision Trees,ENS
+RSSFT,Random SubSpace Functional Trees,ENS
+RSSRF,Random SubSpace Random Forest,ENS
+RSSREPDT,Random SubSpace Reduced Error Pruning Decision Tree,ENS
+RTC,Random Trees Classifier,ENS
+RABHP,Real AdaBoost HyperPipes,ENS
+RABREPDT,Real AdaBoost Reduced Error Pruning Tree,ENS
+ROF,ROtation forest,ENS
+ROFCDT,Rotation Forest Credal Decision Tree,ENS
+ROFRF,Rotation forest Random Forest,ENS
+ROFREPDT,Rotational Forest Reduced Error Pruning Decision Tree,ENS
+STACK,Stacking of multiple models,ENS
+SGB,Stochastic Gradient Boosting,ENS
+SF,SysFor,ENS
+HP,HyperPipes,IB
+KNN,K-Nearest-Neighbor,IB
+VFI,Voting Feature Intervals,IB
+GAM,General Additive Model,LR
+GLM,General Linear Model,LR
+KLOGR,Kernel Logistic Regression,LR
+LR,Linear Regression,LR
+LOGR,Logistic Regression,LR
+MENT,Maximum Entropy,LR
+MARS,Multivariate Adaptive Regression Spline,LR
+SE,Shannon Entropy,LR
+SGD,Stochastic Gradient Descent,LR
+ANFIS,Adaptive Neuro-Fuzzy Inference System,NN
+ANN,Artificial Neural Network,NN
+AE,AutoEncoders,NN
+BTN,Bottleneck Transformer Network,NN
+CNN,Convolutional Neural Network,NN
+DBN,Deep Belief Network,NN
+DNN,Deep Neural Network,NN
+DCN,Dense Convolutional Networks,NN
+ELANFIS,Extreme Learning Adaptive Neuro-Fuzzy Inference System,NN
+GAMI,Generalized Additive Models with Structured Interactions,NN
+GCN,Graph Convolutional Network,NN
+GRU,Gated Recurrent Unit,NN
+HNN,Hierarchical Neural Network,NN
+MLPNN,MultiLayer Perceptron Neural Network,NN
+PA,Passive Aggressive Classifier,NN
+PER,Perceptron,NN
+RBFN,Radial Basis Function Networks,NN
+RSS,Random SubSpace,NN
+RNN,Recurrent Neural Network,NN
+ResNN,Residual Neural Network,NN
+RBM,Restricted Boltzman Machine,NN
+SRU,Simple Recurrent Unit,NN
+TNN,Transformer Neural Network,NN
+ViT,Vision Transformer,NN
+GARP,Genetic Algorithm Rule-Set Production,RS
+RS,Rough Set,RS
+FR,Frequency Ratio,STAT
+SVM,Support Vector Machine,SVM
+SVR,Support Vector Regression,SVM
+SHAP,SHapley Additive exPlanations,XAI

@@ -1,0 +1,119 @@
+Tag,Full Name,Category
+BGLM,Bayesian General Linear Model,BAY
+BLOGR,Bayesian Logistic Regression,BAY
+GPR,Gaussian Process Regression,BAY
+NB,Naive Bayes,BAY
+RVM,Relevance Vector Machine,BAY
+MDA,Multivariate Discriminant Analysis,DR
+MixDA,Mixture Discriminant Analysis,DR
+ADT,Alternating Decision Trees,DT
+BFDT,Best First Decision Trees,DT
+C45DT,C4.5 Decision Tree,DT
+CART,Classification And Regression Tress,DT
+DT,Decision Trees,DT
+DTC,Decision Table Classifier,DT
+FT,Functional Tree,DT
+GBRT,Gradient Boosting Regression Trees,DT
+JDT,J48 Decision Tree,DT
+LMT,Logistic Model Tree,DT
+M5P,M5 model trees,DT
+NBT,Naive Bayes Trees,DT
+PDT,Partial Decision Tree,DT
+REPDT,Reduced Error Pruning Decision Tree,DT
+AB,AdaBoost,ENS
+ABCDT,AdaBoost Credal Decision Trees,ENS
+ABDTA,Ada-Boost Decision Table,ENS
+ABPDT,AdaBoost Partial Decision Tree,ENS
+ABREPDT,AdaBoost Reduced Error Pruning Decision Tree,ENS
+BA,Bootsrap aggregation,ENS
+BANN,Bagging Artificial Neural Network,ENS
+BART,Bagging Random Trees,ENS
+BBFDT,Bagging Best First Decision Trees,ENS
+BCDT,Bagging Credal Decision Trees,ENS
+BCT,Boosted Classification Tree,ENS
+BDT,Bagging Decision Trees,ENS
+BDTA,Bagging Decision Table,ENS
+BFPA,Baggin Forest Penalizing Attribute,ENS
+BFT,Bagging Functional Tree,ENS
+BGAM,Boosted Generalized Additive Model,ENS
+BGP,Bagging Gaussian Process,ENS
+BKNN,Bagging K-Nearest-Neighbor,ENS
+BM5P,Bagging M5 model trees,ENS
+BOGLM,Boosted Generalized Linear Model,ENS
+BPDT,Bagging Partial Decision Tree,ENS
+BREPDT,Bagging Reduced Error Pruning Decision Tree,ENS
+BRF,Bagging Random Forest,ENS
+BRT,Boosted Regression Tree,ENS
+BSMO,Bagging Sequential Minimal Optimization,ENS
+CB,CatBoost,ENS
+CDT,Credal Decision Trees,ENS
+CIRF,Conditional Inference Random Forest,ENS
+CRF,Cascade Random Forest,ENS
+CSF,Cost Sensitive Forest,ENS
+DABFDT,Dagging Best First Decision Trees,ENS
+DB,DeepBoost,ENS
+DBFDT,Decorate Best First Decision Trees,ENS
+DCDT,Dagging Credal Decision Trees,ENS
+DFPA,Decorate Forest Penalizing Attribute,ENS
+DFT,Dagging Functional Tree,ENS
+DM5P,Dagging M5 model trees,ENS
+DPDT,Dagging Partial Decision Tree,ENS
+DREPDT,Decorate Reduced Error Pruning Decision Tree,ENS
+ERT,Extremely Randomized Trees,ENS
+GBDT,Gradient Boosted Decision Trees,ENS
+GBM,Gradient Boosting Machine,ENS
+LGBM,Light Gradient Boosting Machine,ENS
+MB,MultiBoostAB,ENS
+MBANN,MultiBoost Artificial Neural Network,ENS
+MBCDT,Multi-Boost AdaBoost Credal Decision Trees,ENS
+MBJDT,Multi-Boosting J48 Decision Tree,ENS
+MBREPDT,MultiBoostAB Reduced Error Pruning Decision Tree,ENS
+NGB,Natural Gradient Boosting Machines,ENS
+RABJDT,Real AdaBoost J48 Decision Tree,ENS
+RF,Random Forest,ENS
+RNB,Random Naive Bayes,ENS
+ROF,ROtation forest,ENS
+ROFFT,Rotational Forest Functional Tree,ENS
+RSSBFDT,Random SubSpace Best First Decision Trees,ENS
+RSSCDT,Random SubSpace Credal Decision Trees,ENS
+RSSDT,Random SubSpace Decision Trees,ENS
+RSSJDT,Random SubSpace J48 Decision Tree,ENS
+RSSPDT,Random SubSpace Partial Decision Trees,ENS
+SF,SysFor,ENS
+SGB,Stochastic Gradient Boosting,ENS
+STACK,Stacking of multiple models,ENS
+UB,UltraBoost,ENS
+XGB,Extreme Gradient Boosting,ENS
+HP,Hyperpipes,IB
+KNN,K-Nearest-Neighbor,IB
+KS,K-Star,IB
+LWLR,Locally Weighted Linear Regression,IB
+ENC,ElasticNet Classifier,LR
+GAM,General Additive Model,LR
+GLM,General Linear Model,LR
+KLOGR,Kernel Logistic Regression,LR
+LASSO,LASSO Regression,LR
+LOGR,Logistic Regression,LR
+LR,Linear Regression,LR
+MARS,Multivariate Adaptive Regression Spline,LR
+MENT,Maximum Entropy,LR
+SGD,Stochastic Gradient Descent,LR
+ANFIS,Adaptive Neuro-Fuzzy Inference System,NN
+ANN,Artificial Neural Network,NN
+CNN,Convolutional Neural Network,NN
+BPNN,BackPropagation Neural Networks,NN
+DBN,Deep Belief Network,NN
+DNN,Deep Neural Network,NN
+GNN,Graph Neural Network,NN
+PER,Perceptron,NN
+RBF,Radial Basis Function,NN
+RESNN,Residual Neural Network,NN
+RNN,Recurrent Neural Network,NN
+GARP,Genetic Algorithm Rule-Set Production,RS
+FDA,Functional Data Analysis,STAT
+FR,Frequency Ratio,STAT
+MKL,Multiple Kernel Learning,SVM
+SVM,Support Vector Machine,SVM
+SVR,Support Vector Regression,SVM
+ARIMA,Autoregressive Integrated Moving Average,TS
+SHAP,SHapley Additive exPlanations,XAI

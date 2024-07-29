@@ -1,0 +1,26 @@
+Tag,Full Name,Category
+LR,Linear Regression(regularization),LR
+BR,Bayesian Regression (regularization),BAY
+GBRT,Gradient Boosted Regression Trees,ENS
+SVR,Support Vector Regression,SVM
+RFR,Random Forest Regression,ENS
+ANN,Artificial Neural Network,NN
+XGBR,Extreme Gradient Boosting Regression,ENS
+SGB,Stochastic Gradient Boosting,ENS
+MANN,Model Averaged Neural Network,NN
+SVM,Support Vector Machine,SVM
+NB,Naive Bayes,BAY
+RT,Regression Trees,DT
+DBN,Deep Belief Network,NN
+AB,AdaBoost,ENS
+DNN,Deep Neural Network,NN
+LUR,Land Use Regression,LR
+GMM,Gaussian Mixture Models,CLUS
+RESCNN,Residual Convolutional Neural Network,NN
+BDT,Bagging Decision Trees,ENS
+BN,Bayesian Network,BAY
+DT,Decision Trees,DT
+MLP,Multi-Layer Perceptron,NN
+RF,Random Forest,ENS
+SHAP,SHapley Additive exPlanations,XAI
+KNN,K Nearest Neighbours,IB
